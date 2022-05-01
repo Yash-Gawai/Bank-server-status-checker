@@ -6,3 +6,5 @@ It would be beneficial if the apps inform the user if the server is unavailable 
 A GUI to select the bank from a dropdown menu is made in ping_test.py using tkinter.
 
 The GUI prints the output selected in the dropdown menu to the console and ping_test_2.py and uses it as an input to check for the server status and returns a response based on it.
+
+Note: Both need to be in the same folder and only ping_test_2.py is to be run, ping_test.py get runs from it automatically.
